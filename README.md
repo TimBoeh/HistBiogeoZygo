@@ -5,3 +5,5 @@ In this study I used chloroplast sequence data to reconstruct the evolutionary h
 
 The paper ist published in *Frontier of Biogeography* as:
 Böhnert *et al.* (2020) Historical assembly of Zygophyllaceae in the Atacama Desert. https://doi.org/10.21425/F5FBG45197
+
+![Bulnesia] (/images/Bulnesia_chilensis_TB012295.JPG)
